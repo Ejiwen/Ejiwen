@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning devops tools and technologies
 - 👯 I’m looking for SWE opportunities in the Bay Area
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love soccer and I support real Madrid / Liverpool FC
+- ⚡ Fun fact: I love soccer and I support Real Madrid / Liverpool FC
 
 <br />
 
