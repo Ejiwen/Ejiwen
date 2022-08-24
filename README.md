@@ -41,7 +41,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Create a pretty slider with just html and css](https://cheikhanyejiwen.com/css-html-slide)
+- [Create a pretty slider with just html and css](https://cheikhanyejiwen.com/create-a-pretty-slider-with-just-html-and-css/)
 - [Introduction to the Path Module in Node.js](https://cheikhanyejiwen.com/path-module-nodeJS)
 - [ES6 template Literals ... More control over dynamic strings](https://cheikhanyejiwen.com/ES6-template)
 <!-- BLOG-POST-LIST:END -->
