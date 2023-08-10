@@ -1,6 +1,6 @@
 ### Hi there, I'm [Cheikhany Ejiwen][website] 👋
 
-[![Website](https://img.shields.io/website?label=cheikhanyejiwen.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://cheikhanyejiwen.com)
+[![Website](https://img.shields.io/website?label=cheikhanyejiwen.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ejiwen.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ejiwen?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ejiwen/)
 
 - 🔭 I’m currently working on web scraping project
